@@ -1,0 +1,70 @@
+body{
+    background-image: url("https://i.postimg.cc/3Jv78sss/image.png");
+}
+
+.title-hr{
+    margin-top: -30px;
+    border-color: #fef5e3;
+}
+
+.item-hr{
+    border-color: #fef5e3;
+}
+
+.menu{
+    background-color: #283b14;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 705px;
+    border: 2px solid #fef5e3;
+    border-radius: 10px;
+}
+
+.title{
+    color: #fef5e3;
+    font-size: 50px;
+    text-align: center;
+}
+
+.menu-title{
+    margin-top: 8px;
+    font-size: 45px;
+    color: #fef5e3;
+    text-align: center;
+}
+
+.menu-edibles{
+    margin-top: 8px;
+    font-size: 45px;
+    color: #fef5e3;
+    text-align: center;
+}
+
+.menu-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 10px; 
+}
+
+.item, .price {
+    color: #fef5e3;
+    font-size: 25px;
+    margin: 0; 
+}
+
+.footer-image{
+    width: 550px;
+    height: 290px;
+}
+.foot-hr{
+    border-color: #fef5e3;
+    margin-top: 3px;
+}
+.credit{
+    font-size: 20px;
+    margin-top: -3px;
+    text-align: center;
+    color: #fef5e3;
+}
